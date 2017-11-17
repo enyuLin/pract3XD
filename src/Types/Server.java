@@ -17,6 +17,7 @@ public class Server implements Serializable {
         this.server = new HashMap<>();
     }
 
+    
     public Map<String, ClientMessage> getServer() {
         return server;
     }
