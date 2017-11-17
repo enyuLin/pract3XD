@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class Message implements Serializable{
 
 	/**
-	 * 
+	 * message
 	 */
 	private static final long serialVersionUID = 1L;
 	private  boolean isRead;
